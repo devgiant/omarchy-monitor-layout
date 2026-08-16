@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "community.monitor-layout",
+  "name": "Monitor Layout",
+  "version": "0.1.0",
+  "author": "devmobasa",
+  "description": "Drag-to-arrange monitor manager: modes, scale, rotation, VRR, EDID-keyed persistence",
+  "license": "MIT",
+  "kinds": ["panel"],
+  "entryPoints": {
+    "panel": "MonitorLayout.qml"
+  }
+}
